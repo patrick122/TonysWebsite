@@ -1,1 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+/*header*/
+
+.header {
+    background: url('../img/animals-1851535_1280.jpg') no-repeat center center;
+    background-size:cover;
+    height:700px;
+}
+
+.header ul li{
+    display:inline-block;
+}
+
 
